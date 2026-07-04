@@ -25,10 +25,6 @@
   <img src="https://streak-stats.demolab.com/?user=alexeykapp&theme=tokyonight&hide_border=true&border_radius=8" alt="commit streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexeykapp&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
-</p>
-
 ### 🐍 Contribution snake
 
 <p align="center">
