@@ -16,7 +16,7 @@
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,docker,postgres,git,linux,visualstudio" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,docker,rabbitmq,postgres,git,linux,visualstudio" alt="tech stack" />
 </p>
 
 ### 📊 Activity
