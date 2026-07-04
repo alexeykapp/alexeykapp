@@ -22,7 +22,7 @@
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alexeykapp&theme=tokyonight&hide_border=true&border_radius=8" alt="commit streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=alexeykapp&theme=tokyonight&hide_border=true&border_radius=8&card_width=820" alt="commit streak" />
 </p>
 
 ### 🚀 Contribution shooter
