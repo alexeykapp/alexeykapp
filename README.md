@@ -25,12 +25,12 @@
   <img src="https://streak-stats.demolab.com/?user=alexeykapp&theme=tokyonight&hide_border=true&border_radius=8" alt="commit streak" />
 </p>
 
-### 🐍 Contribution snake
+### 🚀 Contribution shooter
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/galaga-contribution-graph.svg" />
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/alexeykapp/alexeykapp/output/galaga-contribution-graph.svg" />
   </picture>
 </p>
